@@ -1,1 +1,1 @@
-# Puzzle-gmae
+# Puzzle-game
